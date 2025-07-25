@@ -1,8 +1,8 @@
 ---
-name: evcc
+name: evcc (custom build)
 version: 0.130.2_CustomBuild
 slug: evcc
-description: EV Charge Controller (customer build)!
+description: EV Charge Controller (custom build)
 url: https://github.com/evcc-io/evcc
 arch: 
   - armhf
