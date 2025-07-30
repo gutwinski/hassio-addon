@@ -1,5 +1,5 @@
 ---
-name: evcc (custom build)
+name: evcc
 version: 0.206.0_CustomBuild
 slug: evcc
 description: EV Charge Controller (custom build)
